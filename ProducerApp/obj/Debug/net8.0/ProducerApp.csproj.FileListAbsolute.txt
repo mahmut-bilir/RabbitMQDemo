@@ -1,0 +1,17 @@
+D:\projects\RabbitMQSolution\ProducerApp\bin\Debug\net8.0\ProducerApp.exe
+D:\projects\RabbitMQSolution\ProducerApp\bin\Debug\net8.0\ProducerApp.deps.json
+D:\projects\RabbitMQSolution\ProducerApp\bin\Debug\net8.0\ProducerApp.runtimeconfig.json
+D:\projects\RabbitMQSolution\ProducerApp\bin\Debug\net8.0\ProducerApp.dll
+D:\projects\RabbitMQSolution\ProducerApp\bin\Debug\net8.0\ProducerApp.pdb
+D:\projects\RabbitMQSolution\ProducerApp\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\projects\RabbitMQSolution\ProducerApp\obj\Debug\net8.0\ProducerApp.csproj.AssemblyReference.cache
+D:\projects\RabbitMQSolution\ProducerApp\obj\Debug\net8.0\ProducerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\RabbitMQSolution\ProducerApp\obj\Debug\net8.0\ProducerApp.AssemblyInfoInputs.cache
+D:\projects\RabbitMQSolution\ProducerApp\obj\Debug\net8.0\ProducerApp.AssemblyInfo.cs
+D:\projects\RabbitMQSolution\ProducerApp\obj\Debug\net8.0\ProducerApp.csproj.CoreCompileInputs.cache
+D:\projects\RabbitMQSolution\ProducerApp\obj\Debug\net8.0\Producer.CE93B18E.Up2Date
+D:\projects\RabbitMQSolution\ProducerApp\obj\Debug\net8.0\ProducerApp.dll
+D:\projects\RabbitMQSolution\ProducerApp\obj\Debug\net8.0\refint\ProducerApp.dll
+D:\projects\RabbitMQSolution\ProducerApp\obj\Debug\net8.0\ProducerApp.pdb
+D:\projects\RabbitMQSolution\ProducerApp\obj\Debug\net8.0\ProducerApp.genruntimeconfig.cache
+D:\projects\RabbitMQSolution\ProducerApp\obj\Debug\net8.0\ref\ProducerApp.dll

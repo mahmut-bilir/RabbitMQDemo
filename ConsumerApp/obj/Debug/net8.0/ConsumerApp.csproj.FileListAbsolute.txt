@@ -1,0 +1,17 @@
+D:\projects\RabbitMQSolution\ConsumerApp\bin\Debug\net8.0\ConsumerApp.exe
+D:\projects\RabbitMQSolution\ConsumerApp\bin\Debug\net8.0\ConsumerApp.deps.json
+D:\projects\RabbitMQSolution\ConsumerApp\bin\Debug\net8.0\ConsumerApp.runtimeconfig.json
+D:\projects\RabbitMQSolution\ConsumerApp\bin\Debug\net8.0\ConsumerApp.dll
+D:\projects\RabbitMQSolution\ConsumerApp\bin\Debug\net8.0\ConsumerApp.pdb
+D:\projects\RabbitMQSolution\ConsumerApp\obj\Debug\net8.0\ConsumerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\RabbitMQSolution\ConsumerApp\obj\Debug\net8.0\ConsumerApp.AssemblyInfoInputs.cache
+D:\projects\RabbitMQSolution\ConsumerApp\obj\Debug\net8.0\ConsumerApp.AssemblyInfo.cs
+D:\projects\RabbitMQSolution\ConsumerApp\obj\Debug\net8.0\ConsumerApp.csproj.CoreCompileInputs.cache
+D:\projects\RabbitMQSolution\ConsumerApp\obj\Debug\net8.0\ConsumerApp.dll
+D:\projects\RabbitMQSolution\ConsumerApp\obj\Debug\net8.0\refint\ConsumerApp.dll
+D:\projects\RabbitMQSolution\ConsumerApp\obj\Debug\net8.0\ConsumerApp.pdb
+D:\projects\RabbitMQSolution\ConsumerApp\obj\Debug\net8.0\ConsumerApp.genruntimeconfig.cache
+D:\projects\RabbitMQSolution\ConsumerApp\obj\Debug\net8.0\ref\ConsumerApp.dll
+D:\projects\RabbitMQSolution\ConsumerApp\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\projects\RabbitMQSolution\ConsumerApp\obj\Debug\net8.0\ConsumerApp.csproj.AssemblyReference.cache
+D:\projects\RabbitMQSolution\ConsumerApp\obj\Debug\net8.0\Consumer.C1CC8D59.Up2Date
